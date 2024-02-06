@@ -19,7 +19,7 @@ def clear_entry():
 
 # Create the main window
 root = tk.Tk()
-root.title("Simple Calculator")
+root.title(" Calculator")
 
 # Entry widget for displaying the input and output
 entry = tk.Entry(root, width=20, font=('Arial', 16), bd=5, insertwidth=4, justify='right')
